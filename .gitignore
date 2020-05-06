@@ -2,6 +2,7 @@
 *.pyc
 .coverage
 .coveragerc/
+*.py.swp
 
 # directories
 .pytest_cache/
