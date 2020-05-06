@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# function to flatten given array of arbitrarily nested arrays of integers
 
 
 def flatten_to_list(input_array):
