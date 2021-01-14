@@ -1,5 +1,5 @@
 # function to flatten given array of arbitrarily nested arrays of integers
-# filan
+# filan - rebasing with style
 
 def flatten_to_list(input_array):
     result = list()
